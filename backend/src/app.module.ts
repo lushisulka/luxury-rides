@@ -19,9 +19,9 @@ import { VehicleEntity } from './vehicles/entity/vehicle.entity';
       entities: [UserEntity,VehicleEntity],
       synchronize: true,
     })
-    ,UsersModule, 
-    AuthModule, 
-    VehiclesModule, 
+    ,UsersModule,
+    AuthModule,
+    VehiclesModule,
     BookingModule
   ]
 })
